@@ -1,9 +1,9 @@
 
 [![MasterHead](./assets/images/fullstack.gif)](https://jomobrain1.netlify.app/)
-
+<img width='100%' height="300">
 <h1 align="center">Hi 👋, I'm jomo brain</h1>
 <h3 align="center">A passionate fullstack developer using technology to build amazing stuff.</h3>
-(img align="right" alt="Coding" width="400" src="./asssets/images/coding.gif")
+<img align="right" alt="Coding" width="400" src="./asssets/images/coding.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jomobrain1&label=Profile%20views&color=0e75b6&style=flat" alt="jomobrain1" /> </p>
 
