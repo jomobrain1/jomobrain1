@@ -1,6 +1,6 @@
 
-[![MasterHead](./assets/images/fullstack.gif)](https://jomobrain1.netlify.app/)
-<img width='100%' height="300"  src="./asssets/images/coding.gif" >
+<!-- [![MasterHead](./assets/images/fullstack.gif)](https://jomobrain1.netlify.app/) -->
+<img width='800' height="300"  src="./asssets/images/coding.gif" >
 <h1 align="center">Hi 👋, I'm jomo brain</h1>
 <h3 align="center">A passionate fullstack developer using technology to build amazing stuff.</h3>
 <img align="right" alt="Coding" width="400" src="./asssets/images/coding.gif" />
