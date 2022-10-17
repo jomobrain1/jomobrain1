@@ -5,9 +5,9 @@
 <h3 align="center">A passionate fullstack developer using technology to build amazing stuff.</h3>
 <img align="right" alt="Coding" width="400" src="./assets/images/coding.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jomobrain1&label=Profile%20views&color=0e75b6&style=flat" alt="jomobrain1" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jomobrain1&label=Profile%20views&color=0e75b6&style=flat" alt="jomobrain1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jomobrain1" alt="jomobrain1" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jomobrain1" alt="jomobrain1" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/jomobrain1" target="blank"><img src="https://img.shields.io/twitter/follow/jomobrain1?logo=twitter&style=for-the-badge" alt="jomobrain1" /></a> </p>
 
