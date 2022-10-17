@@ -1,9 +1,10 @@
 
 <!-- [![MasterHead](./assets/images/fullstack.gif)](https://jomobrain1.netlify.app/) -->
+<img align="right" alt="Coding" height="1600" width="400" src="./assets/images/fullstack.gif" />
 
 <h1 align="center">Hi 👋, I'm jomo brain</h1>
 <h3 align="center">A passionate fullstack developer using technology to build amazing stuff.</h3>
-<img align="right" alt="Coding" width="400" src="./assets/images/coding.gif" />
+<img align="right" alt="Coding" width="400" src="./assets/images/code2.gif" />
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jomobrain1&label=Profile%20views&color=0e75b6&style=flat" alt="jomobrain1" /> </p>
 
