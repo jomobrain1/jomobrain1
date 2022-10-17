@@ -2,7 +2,7 @@
 <!-- [![MasterHead](./assets/images/fullstack.gif)](https://jomobrain1.netlify.app/) -->
 <a href="https://jomobrain1.netlify.app">
 <p>
-<img align="right" alt="Coding" width="1600" height="350" src="./assets/images/fullstack.gif" />
+<img align="right" alt="Coding" width="1600" height="400" src="./assets/images/fullstack.gif" />
 </p>
 </a>
 
