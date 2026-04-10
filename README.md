@@ -10,7 +10,7 @@
 
 <img align="right" alt="Coding" width="400" src="./assets/images/code2.gif" />
 
-- I build web and mobile applications using **MERN, Laravel, Flutter, and related technologies**
+- I build web and mobile applications using **MERN, Laravel, Flutter, React Native and related technologies**
 - I enjoy turning ideas into products by building responsive user interfaces, APIs, authentication systems, payment flows, and e-commerce features
 - I have experience in **debugging, collaborative development, and delivering practical, user-friendly solutions**
 - I’m currently learning **React Native**
@@ -18,7 +18,7 @@
 - Reach me at **jomobrain1@gmail.com**
 - Fun fact: **Swimming is bae 🏊**
 
-<h3 align="left">Selected Projects:</h3>
+<h3 align="left">Projects:</h3>
 
 - **E-Commerce Platform (MERN)**  
   Demo/testing e-commerce deployment built with the MERN stack, featuring product browsing, cart, checkout flow, and backend API integration.  
