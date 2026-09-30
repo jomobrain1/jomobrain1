@@ -1,51 +1,121 @@
-<!-- Banner -->
-<a href="https://www.w3schools.com">
-  <p>
-    <img align="right" alt="Coding" width="1600" height="250" src="./assets/images/fullstack.gif" />
-  </p>
-</a>
-
 <h1 align="center">Hi 👋, I'm Jomo Brain</h1>
-<h3 align="center">A full-stack developer passionate about turning ideas into real web and mobile products.</h3>
+<h3 align="center">Full-Stack Developer building practical web, mobile, payment, business, and developer tools.</h3>
 
 <img align="right" alt="Coding" width="400" src="./assets/images/code2.gif" />
 
-- I build web and mobile applications using **MERN, Laravel, React Native and related technologies**
-- I enjoy turning ideas into products by building responsive user interfaces, APIs, authentication systems, payment flows, and e-commerce features
-- I have experience in **debugging, collaborative development, and delivering practical, user-friendly solutions**
-- I’m currently learning **React Native**
-- Ask me about **JavaScript, React, Node.js, Express.js, Laravel, Flutter, MongoDB, Redis, and SQL**
+- I build web and mobile applications using **JavaScript, TypeScript, React, React Native, Node.js, Express.js, MongoDB, PostgreSQL, MySQL, and Redis**
+- I enjoy taking products from idea to production, including **responsive interfaces, REST APIs, authentication, payments, and real-time features**
+- I have experience building **production systems, SaaS products, mobile apps, developer tools, and business platforms**
+- I’m currently expanding my knowledge of **React Native and Go**
+- Ask me about **JavaScript, TypeScript, React, React Native, Node.js, APIs, databases, payments, and backend development**
 - Reach me at **jomobrain1@gmail.com**
 - Fun fact: **Swimming is bae 🏊**
 
-<h3 align="left">Projects:</h3>
+<h2 align="left">🚀 Featured Projects</h2>
 
-- **E-Commerce Platform (MERN)**  
-  Demo/testing e-commerce deployment built with the MERN stack, featuring product browsing, cart, checkout flow, and backend API integration.  
-  🔗 <a href="https://ecommerce-5hh1.vercel.app/" target="_blank">Check it out</a>
+### eLoop: **https://eloop.darcel.tech/**
 
-- **Notely - Full-Stack MERN Notes Application**  
-  A MERN notes application with authentication, protected routes, and a clean dashboard for creating, editing, and deleting notes.  
-  🔗 <a href="https://notely-frontend-sepia.vercel.app/" target="_blank">Check it out</a>
+eLoop is a writer operations and management platform designed to help workspace owners manage jobs, writers, client communication, and payments in one place. It includes a **Tauri desktop application** that helps users bid for jobs, communicate with clients, extract order information, and sync data with the backend.
 
-- **Color CSS - Chrome Extension**  
-  A Chrome extension used to inspect color and CSS values directly in the browser, helping developers analyze styles faster.  
-  🔗 <a href="https://chromewebstore.google.com/detail/color-css/adlacpihapeklogkiembneaaaabciaio" target="_blank">Download extension</a>
+The web dashboard allows workspace owners to:
+- Manage orders
+- Invite and manage writers
+- Assign work
+- Monitor client conversations
+- Review submitted work
+- Track order completion
+- Sync order status
+- Process writer payouts through B2C payments
 
-- **SocioApp - Flutter Social Media App**  
-  A Flutter social media application powered by a Laravel API, supporting user registration, profile updates, posting, and commenting.  
-  🔗 <a href="https://github.com/jomobrain1/socioApp" target="_blank">View on GitHub</a>
+The platform currently has **more than 12 accounts onboarded** and has processed approximately **KSh 60,000 in writer payouts**.
 
-- **Tailwind Admin Dashboard - Responsive Dashboard UI**  
-  A clean admin dashboard built with Tailwind CSS for analytics views, management screens, and responsive interface components.  
-  🔗 <a href="https://jsbits-tailwind-admin-dashboard.netlify.app/" target="_blank">Check it out</a>
+### PayLog: **https://paylog.darcel.tech/**
 
-<h3 align="left">Connect with me:</h3>
+PayLog is a **POS and business management platform** built around real-world payment processing.
+
+It supports:
+- M-PESA STK Push
+- M-PESA C2B payments
+- Payment callbacks
+- Transaction status tracking
+- Sales management
+- Automatic transaction updates
+- Traceable payment records
+
+The platform helps businesses manage sales and payments while keeping transaction data consistent and easy to track.
+
+### Vita Nova: **https://play.google.com/store/apps/details?id=com.vitanova.app**
+
+Vita Nova is a **React Native mobile prayer and devotional application published on Google Play**.
+
+It includes:
+- Daily readings
+- Prayers
+- Rosary content
+- Saints
+- Bible verses
+- Notifications
+- Devotional recommendations
+- Personalized content
+
+The project involved building both the mobile experience and supporting backend services, with a focus on **content delivery, engagement, notifications, and reliable mobile functionality**.
+
+### Superfix: **https://www.superfixindustry.co.ke/**
+
+Superfix is a production web platform built for a real business using the **MERN stack**.
+
+It includes:
+- Responsive React frontend
+- Backend REST APIs
+- Database-driven content
+- Product management
+- Service management
+- Business-focused workflows
+
+The project demonstrates experience building, deploying, and maintaining a **full-stack application used in a real production environment**.
+
+### Tilcayo: **https://github.com/jomobrain1/tilcayo**
+
+Tilcayo is an **opinionated full-stack TypeScript framework** I am building to simplify backend and full-stack application development.
+
+It focuses on:
+- Structured application server
+- Routing
+- Controllers
+- Request context handling
+- Configuration
+- CLI tooling
+- Consistent project conventions
+
+The roadmap includes:
+- Built-in authentication
+- Admin tooling
+- Resource generators
+- Database tooling
+- Deployment helpers
+
+The goal is to give developers sensible defaults and reduce repetitive setup work.
+
+### Color CSS - Chrome Extension: <a href="https://chromewebstore.google.com/detail/color-css/adlacpihapeklogkiembneaaaabciaio" target="_blank">View on Chrome Web Store</a>
+
+A Chrome extension for inspecting **color and CSS values directly in the browser**, helping developers analyze styles faster.
+
+### Tailwind Admin Dashboard: <a href="https://jsbits-tailwind-admin-dashboard.netlify.app/" target="_blank">View Project</a>
+
+A responsive admin dashboard built with **Tailwind CSS**, featuring analytics views, management screens, and reusable interface components.
+
+<h2 align="left">🧠 Currently Learning</h2>
+
+- **Go** — expanding my backend knowledge and learning more about concurrency, goroutines, and backend services
+- **React Native** — continuing to improve my mobile development skills and production app experience
+
+<h2 align="left">🤝 Connect with me</h2>
+
 <p align="left">
-<a href="https://codepen.io/jomobrain1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jomobrain1" height="30" width="40" /></a>
-<a href="https://twitter.com/jomobrain1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jomobrain1" height="30" width="40" /></a>
-<a href="https://instagram.com/jomobrain1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jomobrain1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codding mall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codding mall" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jomobrain1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jomobrain1" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@jomobrain1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@jomobrain1" height="30" width="40" /></a>
+<a href="https://twitter.com/jomobrain1" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jomobrain1" height="30" width="40" />
+</a>
+<a href="https://instagram.com/jomobrain1" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jomobrain1" height="30" width="40" />
+</a>
 </p>
